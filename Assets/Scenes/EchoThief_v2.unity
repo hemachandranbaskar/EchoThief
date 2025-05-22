@@ -5613,8 +5613,8 @@ MonoBehaviour:
   tutorialPanel: {fileID: 152506290}
   victoryPanel: {fileID: 920064252}
   gameOverPanel: {fileID: 278993111}
-  gameTime: 60
-  tutorialTime: 10
+  gameTime: 30
+  tutorialTime: 7
   victoryDistance: 1
 --- !u!4 &712065951
 Transform:
